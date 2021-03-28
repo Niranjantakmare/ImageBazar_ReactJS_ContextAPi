@@ -1,1 +1,1 @@
-# ImageBazar_ReactJS_ContextAPi
+# ImageBazar_ReactJS_ContextAPI

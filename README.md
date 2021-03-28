@@ -1,12 +1,18 @@
-# A simple counter-App using [React.js](https://reactjs.org)
+# A simple Image Bazar App using React JS with Context API(https://reactjs.org)
 
-> **This tiny application is like adding,removing,deleting, resetting products which reflects in the total number of products into our shopping cart.**
+> This tiny application used for search for the online images by the keywords.
+> User can viewed searched images.
+> User can download search images.
+> User can also bookmark the search keywords.
+> 
+ 
+**This is a very basic app but useful to understand the React Components, states, Data Flow, parent to child, UseEffect, Context API, useReducer,
+Create Context, useContext.**
 
-**This is a very basic app but useful to understand the React Components, states, Data Flow, parent to child etc. .**
 
-## Live URL :-
+## Application Video :-
 
-> [Counter App](https://obscure-waters-60500.herokuapp.com)
+> 
 
 **OR your can do the following to run in your local machine**
 

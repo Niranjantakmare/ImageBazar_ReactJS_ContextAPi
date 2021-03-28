@@ -1,6 +1,6 @@
 # A simple Image Bazar App using React JS with Context API(https://reactjs.org)
 
-> **This tiny application used for search for the online images by the keywords.
+> This tiny application used for search for the online images by the keywords.
 > User can viewed searched images.
 > User can download search images.
 > User can also bookmark the search keywords.

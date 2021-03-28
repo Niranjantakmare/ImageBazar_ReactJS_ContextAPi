@@ -1,0 +1,76 @@
+.ImagesSerachTitle{
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.Images ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    -ms-align-items: flex-start;
+    align-items: flex-start;
+    list-style-type: none;
+}
+.Images  li {
+    width: 220px;
+    height: 165px;
+    overflow: hidden;
+    margin-bottom: 15px;
+    cursor: pointer;
+    position: relative;
+}
+
+.Images ul img {
+    width: 100%;
+    transform: scale(1.25);
+    transition: transform 1.25s;
+  }
+  
+  .Images li:hover img {
+    transform: scale(1.65);
+    opacity: 0.8;
+  }
+  
+
+.bookmarkSearch {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+}
+
+.bookmarkBtn {
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.downloadIcon {
+    position: absolute;
+    z-index: 3333;
+    left: 32%;
+    bottom: 5%;
+    font-size: 26px !important;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.viewIcon{
+    position: absolute;
+    z-index: 3333;
+    left: 50%;
+    bottom: 5%;
+    font-size: 26px !important;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.viewIcon:hover {
+    opacity: 1;
+}
+.downloadIcon:hover {
+    opacity: 1;
+}
